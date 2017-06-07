@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle init-vue",
-        "command": "init-vue:toggle"
+        "label": "init",
+        "command": "init-file:toggle"
       }
     ]
   },
@@ -12,11 +12,11 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "init-vue",
+          "label": "Init-File",
           "submenu": [
             {
-              "label": "初始化",
-              "command": "init-vue:toggle"
+              "label": "Init",
+              "command": "init-file:toggle"
             }
           ]
         }
