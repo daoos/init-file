@@ -1,8 +1,8 @@
 {
   "name": "init-file",
   "main": "./lib/init-file",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.1.0",
+  "description": "init vue,html source code ",
   "keywords": [
   ],
   "license": "MIT",
