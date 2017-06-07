@@ -1,16 +1,14 @@
 {
   "name": "init-file",
   "main": "./lib/init-file",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "init vue,html source code ",
-  "keywords": [
-  ],
+  "keywords": [],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/lucefer/init-file.git"
