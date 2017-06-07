@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle init-vue",
+        "command": "init-vue:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "init-vue",
+          "submenu": [
+            {
+              "label": "初始化",
+              "command": "init-vue:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

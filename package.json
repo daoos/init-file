@@ -1,0 +1,18 @@
+{
+  "name": "init-file",
+  "main": "./lib/init-file",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucefer/init-file.git"
+  }
+}
