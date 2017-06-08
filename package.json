@@ -1,7 +1,7 @@
 {
   "name": "init-file",
   "main": "./lib/init-file",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "author": "lucefer",
   "description": "init vue,html source code ",
   "keywords": [],
