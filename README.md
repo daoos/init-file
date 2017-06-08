@@ -9,4 +9,4 @@ Atom插件，用于初始化html和vue代码。
 ![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
 
 ### 演示
-<img src="/uploads/default/original/2X/7/7fdffba8b7118b9e2c646f0fe2511728520aa1c0.gif" width="620" height="340">
+<img src="https://atom-china.org/uploads/default/original/2X/7/7fdffba8b7118b9e2c646f0fe2511728520aa1c0.gif" width="620" height="340">
