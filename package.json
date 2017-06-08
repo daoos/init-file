@@ -2,6 +2,7 @@
   "name": "init-file",
   "main": "./lib/init-file",
   "version": "0.5.2",
+  "author": "lucefer",
   "description": "init vue,html source code ",
   "keywords": [],
   "license": "MIT",
